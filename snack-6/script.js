@@ -27,6 +27,8 @@ const zucchineCorte = zucchine.filter(element => {
 })
 console.log(zucchineCorte);
 
+
+console.log('----');
 //versione con il ciclo for 
 
 let arrayLunghe = [];
